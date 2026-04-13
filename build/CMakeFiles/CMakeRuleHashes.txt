@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+25bfa1927a9366039e60f1ebb3f860e0 CMakeFiles/stellardock_autogen
+25bfa1927a9366039e60f1ebb3f860e0 CMakeFiles/stellardock_autogen_timestamp_deps
+ff9388fbac05df6c2f46e70ab5b7b052 stellardock_autogen/timestamp

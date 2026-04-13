@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/stellardock_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/stellardock_autogen.dir/ParseCache.txt"
+  "stellardock_autogen"
+  "CMakeFiles/stellardock.dir/src/AppLauncher.cpp.o"
+  "CMakeFiles/stellardock.dir/src/AppLauncher.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/AppMenu.cpp.o"
+  "CMakeFiles/stellardock.dir/src/AppMenu.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/AppMenuLauncher.cpp.o"
+  "CMakeFiles/stellardock.dir/src/AppMenuLauncher.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/ApplicationScanner.cpp.o"
+  "CMakeFiles/stellardock.dir/src/ApplicationScanner.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/DockAnimation.cpp.o"
+  "CMakeFiles/stellardock.dir/src/DockAnimation.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/DockItem.cpp.o"
+  "CMakeFiles/stellardock.dir/src/DockItem.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/DockWindow.cpp.o"
+  "CMakeFiles/stellardock.dir/src/DockWindow.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/SeparatorItem.cpp.o"
+  "CMakeFiles/stellardock.dir/src/SeparatorItem.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/SettingsDialog.cpp.o"
+  "CMakeFiles/stellardock.dir/src/SettingsDialog.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/SystemTrayArea.cpp.o"
+  "CMakeFiles/stellardock.dir/src/SystemTrayArea.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/TrashItem.cpp.o"
+  "CMakeFiles/stellardock.dir/src/TrashItem.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/main.cpp.o"
+  "CMakeFiles/stellardock.dir/src/main.cpp.o.d"
+  "CMakeFiles/stellardock.dir/src/x11util.cpp.o"
+  "CMakeFiles/stellardock.dir/src/x11util.cpp.o.d"
+  "CMakeFiles/stellardock.dir/stellardock_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/stellardock.dir/stellardock_autogen/mocs_compilation.cpp.o.d"
+  "stellardock"
+  "stellardock.pdb"
+  "stellardock_autogen/mocs_compilation.cpp"
+  "stellardock_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/stellardock.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
