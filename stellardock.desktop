@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=StellarDock
+Comment=macOS-style dock for Linux
+Exec=stellardock
+Icon=start-here
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
